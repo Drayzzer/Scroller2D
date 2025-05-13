@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/2eme_version_Menu_Principale_Scroller_2D.unity
+    guid: c5979420a5f29a440991bd9d3c3135e9
+  - enabled: 1
+    path: Assets/Scenes/Version_Final_Scroller_2D.unity
+    guid: a1eb51d5c55f55b4487c3870e7813318
+  - enabled: 1
+    path: Assets/Scenes/Second_Level.unity
+    guid: b51910b50cf952e41b1c21496d355ec8
+  - enabled: 1
+    path: Assets/Scenes/scene_fin_version_finale.unity
+    guid: ae05033063a933d4d85b92ab853f162b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
